@@ -42,6 +42,7 @@ public class test {
        double secValue=scanner.nextByte();
        
        operacionesMatematicas.operacionesBasicas(priValue,secValue);
+// <?xml version="1.0" encoding="UTF-8" ?><reporte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/fde fde.xsd" xmlns="http://www.uif.shcp.gob.mx/recepcion/fde"><trimestre_reportado>2020-04</trimestre_reportado><entidad><clave_organo_regulador>001002</clave_organo_regulador><clave_entidad>040014</clave_entidad></entidad><operaciones>
             
         }
        
